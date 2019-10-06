@@ -17,14 +17,14 @@ I used MIT LICENSE, you can share it or edit it base on your requirements. I cre
 requirement in my work (just one), so I can't consider all the condition, if you have questions or requirements, you 
 can also ask me. 
 ## Basic Manual
-1 Creates a XXX.docx template, in your template, every parameter name need be enclose as ${parameter}, if this 
+1. Creates a XXX.docx template, in your template, every parameter name need be enclose as ${parameter}, if this 
 parameter is a picture file path, and you want to display this picture, it should be ${parameter-p}. You can 
 skim the pictureTest.docx file, it is my test template.
-2 Input your parameter value in dataMap, in the src/main/java/com/maoyadoudou/GenerateDuplicate.java, key in dataMap 
+2. Input your parameter value in dataMap, in the src/main/java/com/maoyadoudou/GenerateDuplicate.java, key in dataMap 
 should be same as your parameter name.
-3 Input your template file path in sourceFilePath, you can find sourceFilePath 
+3. Input your template file path in sourceFilePath, you can find sourceFilePath 
 in src/main/java/com/maoyadoudou/GenerateDuplicate.java , and targetFilePath represents the target file path.
-4 If you only want to copy you source file, just make option is 0. If you want to insert parameter in your template 
+4. If you only want to copy you source file, just make option is 0. If you want to insert parameter in your template 
 during copying, make option is 1.
 ## P.S.
 Defoliation still needs improvement, and I will add new function in future, and I hope this project can give you some 
