@@ -21,7 +21,6 @@ public class GenerateDuplicate {
         dataMap.put("image", "./a.jpg");
         defoliationClone.setDataMap(dataMap);
         defoliationClone.setOption(1);
-
         defoliationClone.copyDocxFile(targetFilePath);
     }
 
