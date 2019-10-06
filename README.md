@@ -8,7 +8,7 @@ these templates with different information in one MS-word file.
    in my narrative. You are welcome to point out my mistake, if you are glad to do. Thank you!** 
 2. Defoliation ~~is still not finished~~ has finished basic function, ~~I researched and wrote this project in my privacy 
    exercise project in past, and nowadays~~ if option is 0, it ~~only~~ could copy word information (texts, tables, 
-   pictures, equations) and styles~~, and I will move these codes to this project recently~~. If option is 1, during 
+   pictures, equations) and styles ~~, and I will move these codes to this project recently~~. If option is 1, during 
    copying, it could replace parameter with your specific data. But I still not finished manual, sorry!
 3. I only have 1 year work experience in Java development in a Start-up company, lots of thing that I didn't consider 
    in this project, you are welcome to point it out, thank you.
