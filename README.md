@@ -27,5 +27,5 @@ in src/main/java/com/maoyadoudou/GenerateDuplicate.java , and targetFilePath rep
 4. If you only want to copy you source file, just make option is 0. If you want to insert parameter in your template 
 during copying, make option is 1.
 ## P.S.
-Defoliation still needs improvement, and I will add new function in future, and I hope this project can give you some 
-helps or hints.
+Defoliation still needs improvement, and I will add new functions and make it easier to use in future, and I hope this 
+project can give you some help or hints.
